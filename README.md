@@ -3,7 +3,7 @@
 <br>
 
 
-<h1>Front-End Work Technologies:</h1>
+<h2>Front-End Work Technologies:</h2>
 <h4>Javascript ES6+, HTML5, CSS3, React JS, Bootstrap e Material UI</h4>
 <div style="display: inline_block">
 <img align="center" alt="Noronha-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">⚪
@@ -18,7 +18,7 @@
 <br>
   
   
-<h1>Back-End Work Technologies:</h1>
+<h2>Back-End Work Technologies:</h2>
 <h4>NodeJS, Express, MySQL, MongoDB e Sequelize</h4>
 <div style="display: inline_block">
 <img align="center" alt="Noronha-NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">⚪
@@ -31,10 +31,10 @@
 
 ##
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/EduardoNoronha31">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=EduardoNoronha31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNoronha31&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoNoronha31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNoronha31&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ##
