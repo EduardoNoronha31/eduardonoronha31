@@ -1,31 +1,37 @@
-<h1 align="center"><b>Hi, it's a pleasure, I'm Eduardo Noronha.</b></h1><br>
+<h1 align="center"><b>Hi, it's a pleasure, I'm Eduardo Noronha.</b></h1>
+
+<br>
 
 
-<div align="center">
-  <h1>Front-End Work Technologies:</h1>
-  <h4>Javascript ES6+, HTML5, CSS3, React JS, Bootstrap e Material UI</h4>
- <div style="display: inline_block"><br>
-  <img align="center" alt="Noronha-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">⚪
-  <img align="center" alt="Noronha-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">⚪
-  <img align="center" alt="Noronha-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">⚪
-  <img align="center" alt="Noronha-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">⚪
-  <img align="center" alt="Noronha-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">⚪
-  <img align="center" alt="Noronha-MaterialUI" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-</div><br>
-  <h1>Back-End Work Technologies:</h1>
-  <h4>NodeJS, Express, MySQL, MongoDB e Sequelize</h4>
- <div style="display: inline_block"><br>
-  <img align="center" alt="Noronha-NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">⚪
-  <img align="center" alt="Noronha-Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">⚪
-  <img align="center" alt="Noronha-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">⚪
-  <img align="center" alt="Noronha-MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">⚪
-  <img align="center" alt="Noronha-Sequelize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+<h1>Front-End Work Technologies:</h1>
+<h4>Javascript ES6+, HTML5, CSS3, React JS, Bootstrap e Material UI</h4>
+<div style="display: inline_block">
+<img align="center" alt="Noronha-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">⚪
+<img align="center" alt="Noronha-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">⚪
+<img align="center" alt="Noronha-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">⚪
+<img align="center" alt="Noronha-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">⚪
+<img align="center" alt="Noronha-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">⚪
+<img align="center" alt="Noronha-MaterialUI" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
 </div>
+  
+  
+<br>
+  
+  
+<h1>Back-End Work Technologies:</h1>
+<h4>NodeJS, Express, MySQL, MongoDB e Sequelize</h4>
+<div style="display: inline_block">
+<img align="center" alt="Noronha-NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">⚪
+<img align="center" alt="Noronha-Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">⚪
+<img align="center" alt="Noronha-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">⚪
+<img align="center" alt="Noronha-MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">⚪
+<img align="center" alt="Noronha-Sequelize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
 </div>
+
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/EduardoNoronha31">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoNoronha31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNoronha31&layout=compact&langs_count=7&theme=dracula"/>
