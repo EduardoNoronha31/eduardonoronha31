@@ -4,7 +4,7 @@
 
 
 <h2>Front-End Work Technologies:</h2>
-<h4>Javascript ES6+, HTML5, CSS3, React JS, Bootstrap e Material UI</h4>
+<h4>Javascript ES6+, HTML5, CSS3, React JS, Bootstrap and Material UI</h4>
 <div style="display: inline_block">
 <img align="center" alt="Noronha-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">⚪
 <img align="center" alt="Noronha-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">⚪
@@ -19,7 +19,7 @@
   
   
 <h2>Back-End Work Technologies:</h2>
-<h4>NodeJS, Express, MySQL, MongoDB e Sequelize</h4>
+<h4>NodeJS, Express, MySQL, MongoDB and Sequelize</h4>
 <div style="display: inline_block">
 <img align="center" alt="Noronha-NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">⚪
 <img align="center" alt="Noronha-Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">⚪
